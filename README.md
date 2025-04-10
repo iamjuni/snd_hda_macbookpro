@@ -1,3 +1,14 @@
+## MacBook Pro models with the Cirrus 8409 HDA audio chips:
+MacBook Pro (13-inch, 2016) - This model, which introduced the Touch Bar, includes the Cirrus 8409 audio chip.
+
+MacBook Pro (15-inch, 2016) - The larger variant of the same year also uses the Cirrus 8409 HDA chip.
+
+MacBook Pro (13-inch, 2017) - Similar to the 2016 model, this version continues to use the Cirrus 8409 chip.
+
+MacBook Pro (15-inch, 2017) - The 15-inch model from 2017 also uses this chip.
+
+MacBook Pro 16-inch (2019)
+
 # snd_hda_macbookpro
 
 This is a kernel driver for sound on Macs with Cirrus 8409 HDA chips.
